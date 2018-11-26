@@ -14,3 +14,18 @@ h1, h2 {
 h3 {
   background-color: #eee9de;
 }
+
+a {
+  background-color: #eee9de;
+  padding: 1em;
+  margin: 1em .75em;
+  border: 5px solid #333;
+}
+
+img {
+  width: 100%;
+  padding: 1em;
+}
+p {
+  font-family: "Lato", sans-serif;
+}
